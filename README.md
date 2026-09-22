@@ -17,5 +17,3 @@ On 7 August 2026 I asked the maintainer to request CVE ids for the published HRC
 The lab was a local instance of 3.5 that I built. No one else's deployment.
 
 Reported privately on 31 July 2026. The vendor published the advisory on 3 August 2026.
-
-L0stHeart
